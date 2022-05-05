@@ -42,8 +42,16 @@ Quando [SCP-173]() non sarà osservato, potrà premere il [:computer_mouse:Tasto
 Quando visto, [SCP-173]() non potrà muoversi per 3.6s. Quando il cooldown terminerà il giocatore potrà premere il [:computer_mouse:Tasto destro] del mouse per "markare" una zona, quando rilasciato, [SCP-173]() si teletrasporterà al punto prescelto dal mark.
 
 Quando premuto il tasto [F] attiverà l'abilità di [TANTRUM]().
-Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
+Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa. [^ShiftAbility]
 
 [SCP-173]() ha l'abiltà di [resistenza di proiettili](); utilizzando proittili [Armor-piercing (AP)]() causeranno maggiori danni ad essa.
 
 [SCP-173]() può parlare con gli altri SCP utilizzando [**Q**].
+### Statistiche di [SCP-173]()
+HP: 3000
+AHP: 1500
+Tempo di battito di ciglia: 3.6s
+Velocità:
+Normale: 7.5 m/s
+[^ShiftAbility]: Abilità: 12.8 m/s
+
