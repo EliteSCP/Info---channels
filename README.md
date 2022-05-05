@@ -7,7 +7,7 @@
 
 ## [TASTI BASE DEL GIOCO]
  - [W, A, S, D]
-  - `W` per camminare in avanti,
-  - `A` per camminare a sinistra,
-  - `S` per camminare all'indietro,
-  - `D` per camminare a destra,
+ - - `W` per camminare in avanti,
+ - - `A` per camminare a sinistra,
+ - - `S` per camminare all'indietro,
+ - - `D` per camminare a destra,
