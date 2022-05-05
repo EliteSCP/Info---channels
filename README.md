@@ -13,7 +13,7 @@
  - [`Q`] --> per parlare con i giocatori, a bassa distanza.
  
  - [`V`]
-   - per parlare utilizzando [SCP-939]() ed [SCP-049](), se si è in possesso del [**DONATOR+**]() o [**DONATOR++**]() (relativi [booster]()) si potrà parlare utilizzando anche gli altri SCP.
+   - per parlare utilizzando [SCP-939]() ed [SCP-049](), se si è in possesso del [**DONATOR+**](Enums/Ranks.cs) o [**DONATOR++**](Enums/Ranks.cs) (relativi [booster](Enums/Ranks.cs)) si potrà parlare utilizzando anche gli altri SCP.
    - per parlare utilizzando la [radio]().
    
  - [`TAB ↹`] --> per aprire il tuo inventario, che può contenere fino ad **8** items.
