@@ -1,6 +1,6 @@
-# ɪɴꜰᴏ-ɢɪᴏᴄᴏ
+# INFO-GIOCO
 ### Benvenuti a tutti nel server di `SCP - Elite Italian Server`, sezione #ɪɴꜰᴏ-ɢɪᴏᴄᴏ, server del gioco `SCP: Secret Laboratory`, creato dai nostri due Founder:
-```
+```diff
  - iopietro
  - Terminator97
 ```
