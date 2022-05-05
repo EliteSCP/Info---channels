@@ -13,8 +13,8 @@
  - [`Q`] --> per parlare con i giocatori, a bassa distanza.
  
  - [`V`]
-   - per parlare utilizzando [SCP-939]() ed [SCP-049](), se si è in possesso del **DONATOR+** o **DONATOR++** (relativi booster) si potrà parlare utilizzando anche gli altri SCP.
-   - per parlare utilizzando la [RADIO]().
+   - per parlare utilizzando [SCP-939]() ed [SCP-049](), se si è in possesso del [**DONATOR+**]() o [**DONATOR++**]() (relativi [booster]()) si potrà parlare utilizzando anche gli altri SCP.
+   - per parlare utilizzando la [radio]().
    
  - [`TAB ↹`] --> per aprire il tuo inventario, che può contenere fino ad **8** items.
  
@@ -44,6 +44,6 @@ Quando visto, [SCP-173]() non potrà muoversi per 3.6s. Quando il cooldown termi
 Quando premuto il tasto [F] attiverà l'abilità di [TANTRUM]().
 Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
 
-[SCP-173]() ha l'abiltà di [resistenza di proiettili](); utilizzando proittili [Armor-piercing (AP)]() causeranno maggiori danni ad [SCP-173]().
+[SCP-173]() ha l'abiltà di [resistenza di proiettili](); utilizzando proittili [Armor-piercing (AP)]() causeranno maggiori danni ad essa.
 
-[SCP-173]() può parlare con gli altri SCP utilizzando [Q].
+[SCP-173]() può parlare con gli altri SCP utilizzando [**Q**].
