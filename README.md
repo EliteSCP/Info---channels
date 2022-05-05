@@ -25,7 +25,7 @@
  - [`f1`] --> per vedere le info della classe che si sta giocando, annesse le sue "abilità".
 
 ## [CLASSI SCP GIOCABILI]
- - SCP-173 -> La Scultura
+ - [SCP-173](#scp-173) -> La Scultura
  - SCP-106 -> Il Vecchio
  - SCP-049 -> Medico della Peste
  - SCP-079 -> Vecchia I.A.
