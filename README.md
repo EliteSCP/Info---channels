@@ -38,11 +38,11 @@
 All'inizio del round, SCP-173 spawnerà nella sua [cella di contenimento]() nella [Light Conteinment Zone]() (**LCZ**).
 Quando spawnerà non potrà uscire subito dalla sua [cella di contenimento](), ma dovrà aspettare in media 30s prima che si apra in automatico, per dar tempo al [Personale di Classe D]() e [Scienziati]() ad esplorare la [Light Conteinment Zone]().
 
-Quando [SCP-173]() non sarà osservato, potrà premere il [:computer_mouse: Tasto sinistro] del mouse per poter rompere il collo del giocatore.
-Quando visto, [SCP-173]() non potrà muoversi per 3.6s. Quando il cooldown terminerà il giocatore potrà premere il [:computer_mouse: Tasto destro] del mouse per "markare" una zona, quando rilasciato, [SCP-173]() si teletrasporterà al punto prescelto dal mark.
+Quando [SCP-173]() non sarà osservato, potrà premere il [:computer_mouse:Tasto sinistro] del mouse per poter rompere il collo del giocatore.
+Quando visto, [SCP-173]() non potrà muoversi per 3.6s. Quando il cooldown terminerà il giocatore potrà premere il [:computer_mouse:Tasto destro] del mouse per "markare" una zona, quando rilasciato, [SCP-173]() si teletrasporterà al punto prescelto dal mark.
 
-Quando premuto il tasto [:regional_indicator_f:] attiverà l'abilità di [TANTRUM]().
-Se premuto il tasto [⬆ Shift] avvierà l'abilità di corsa.
+Quando premuto il tasto [F] attiverà l'abilità di [TANTRUM]().
+Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
 
 [SCP-173]() ha l'abiltà di [resistenza di proiettili](); utilizzando proittili [Armor-piercing (AP)]() causeranno maggiori danni ad [SCP-173]().
 
