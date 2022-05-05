@@ -47,11 +47,11 @@ Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
 [SCP-173]() ha l'abiltà di [resistenza di proiettili](); utilizzando proittili [Armor-piercing (AP)]() causeranno maggiori danni ad essa.
 
 [SCP-173]() può parlare con gli altri SCP utilizzando [**Q**].
-### Statistiche di [SCP-173]()
-| Vita | Velocità | BlinkTime
-| ------------- | ------------- | ------------- |
-| HP: 3000 | Normale: 7.5 m/s [^1] | Tempo di battito di ciglia: 3.6s
-| AHP: 1500 | Abilità: 12.8 m/s [^1] |
+### Statistiche di [SCP-173](#scp-173)
+| Vita | Velocità | BlinkTime | ID
+| ------------- | ------------- | ------------- | ------------- |
+| HP: 3000 | Normale: 7.5 m/s [^1] | Tempo di battito di ciglia: 3.6s | 0
+| AHP: 1500 | Abilità: 12.8 m/s [^1]
 
 [^1]: metri al secondo
 
