@@ -90,6 +90,6 @@ Se SCP-106 cattuterà un giocatore dopo che la [Testata nucleare]() sia esplosa,
  - [Larry è tuo amico]()
  - [Secure. Contain. Protect.]()
 
-## Note
+**Note**
 [^1]: metri al secondo
 [^2]: attraversando le porte
