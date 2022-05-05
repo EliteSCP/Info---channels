@@ -50,6 +50,8 @@ Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
 ### Statistiche di [SCP-173]()
 | Vita | Velocità | BlinkTime
 | ------------- | ------------- | ------------- |
-| HP: 3000 | Normale: 7.5 m/s | Tempo di battito di ciglia: 3.6s
-| AHP: 1500 | Abilità: 12.8 m/s |
+| HP: 3000 | Normale: 7.5 m/s [^1] | Tempo di battito di ciglia: 3.6s
+| AHP: 1500 | Abilità: 12.8 m/s [^1] |
+
+[^1]: metri al secondo
 
