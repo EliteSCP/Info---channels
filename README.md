@@ -54,7 +54,7 @@ Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
 | AHP: 1500 | Abilità: 12.8 m/s [^1]
 
 ### Achievement associati
- - [È la tua prima volta?]()
+ - [È la tua prima volta?](Achievements/SCP-173.md)
 
 ## [SCP-106](https://en.scpslgame.com/index.php?title=SCP-106)
 All'inizio del round, SCP-106 spawnerà al di sotto della sua [cella di contenimento]() nella [Heavy Containment Zone]() (**HCZ**).
