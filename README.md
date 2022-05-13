@@ -44,7 +44,7 @@ Quando visto, [SCP-173](#scp-173) non potrà muoversi per 3.6s. Quando il cooldo
 Quando premuto il tasto [F] attiverà l'abilità di [TANTRUM]().
 Se premuto il tasto [↑ Shift] avvierà l'abilità di corsa.
 
-[SCP-173](#scp-173) ha l'abiltà di [resistenza di proiettili](Abilities/SCP-173.md#cemento-rinforzato); utilizzando proiettili [Armor-piercing (AP)]() causeranno maggiori danni ad essa.
+[SCP-173](#scp-173) ha l'abiltà di [resistenza di proiettili](Abilities/SCP-173.md#cemento-rinforzato); utilizzando proiettili Armor-piercing (AP) causeranno maggiori danni ad essa.
 
 [SCP-173](#scp-173) può parlare con gli altri SCP utilizzando [**Q**].
 ### Statistiche di [SCP-173](#scp-173)
